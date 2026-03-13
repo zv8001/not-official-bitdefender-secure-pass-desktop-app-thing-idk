@@ -19,7 +19,7 @@ Public Class Form1
             MsgBox("Please ensure you have a valid internet connection and try again.", 0 + 16, "ERROR")
             Me.Close()
         Else
-            WebView21.Source = New Uri("https://securepass.bitdefender.com/index.html")
+            WebView21.Source = New Uri("https://securepass.bitdefender.com/index.html") 'Literally the only fucking line of code that matters here btw I added some extra bullshit because I felt like it.
         End If
     End Sub
 
