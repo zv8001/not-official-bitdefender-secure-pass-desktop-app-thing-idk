@@ -23,7 +23,7 @@ Public Class Form1
         End If
     End Sub
 
-    Private Sub WebView21_Click(sender As Object, e As EventArgs) Handles WebView21.Click
+    Private Sub WebView21_Click(sender As Object, e As EventArgs) Handles WebView21.Click 'ts this empty fucking function is necessary trust.
 
     End Sub
 End Class
