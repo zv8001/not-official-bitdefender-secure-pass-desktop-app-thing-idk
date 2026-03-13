@@ -1,4 +1,7 @@
-﻿Imports System.Net.NetworkInformation
+'I'm on some bullshit because what the fuck am I doing 🥀
+'why did i make this....
+
+Imports System.Net.NetworkInformation
 Public Class Form1
 
     Function HasInternet() As Boolean
