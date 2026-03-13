@@ -4,7 +4,7 @@
 Imports System.Net.NetworkInformation
 Public Class Form1
 
-    Function HasInternet() As Boolean 'My good friend Chat GPT wrote this function :skull:.
+    Function HasInternet() As Boolean 'My good friend Chat GPT wrote this function :skull:
         Try
             Dim PingSender As New Ping()
             Dim Reply = PingSender.Send("8.8.8.8", 1000)
