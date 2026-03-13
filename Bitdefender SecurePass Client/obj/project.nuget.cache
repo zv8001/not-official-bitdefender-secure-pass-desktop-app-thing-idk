@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vuWRygr0HvY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\denve\\OneDrive\\Documents\\GitHub\\not-official-bitdefender-secure-pass-desktop-app-thing-idk\\Bitdefender SecurePass Client\\Bitdefender SecurePass Client.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denve\\.nuget\\packages\\microsoft.web.webview2\\1.0.3800.47\\microsoft.web.webview2.1.0.3800.47.nupkg.sha512"
+  ],
+  "logs": []
+}
