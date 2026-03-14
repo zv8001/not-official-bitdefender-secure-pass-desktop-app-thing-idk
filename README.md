@@ -1,6 +1,8 @@
 # not-official-bitdefender-secure-pass-desktop-app-thing-idk
-THIS APP IS NOT CREATED OR ENDORSED BY BITDEFENDER I AM NOT TRYING TO IMPERSONATE!!
+THIS APP IS NOT CREATED OR ENDORSED BY BITDEFENDER I AM NOT TRYING TO IMPERSONATE!
 
+It uses the Webview2 system developed by Microslop (literally just an embedded Microslop Edge window)
+ 
 it's like one line of fucking code it's basically an embedded web browser I was bored and wanted a desktop app so i made smth in vb.net
 
 bitdergfeder plz dont sue i beg
