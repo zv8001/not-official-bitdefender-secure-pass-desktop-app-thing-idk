@@ -1,4 +1,6 @@
 # not-official-bitdefender-secure-pass-desktop-app-thing-idk
+THIS APP IS NOT CREATED OR ENDORSED BY BITDEFENDER I AM NOT TRYING TO IMPERSONATE!!
+
 it's like one line of fucking code it's basically an embedded web browser I was bored and wanted a desktop app so i made smth in vb.net
 
 bitdergfeder plz dont sue i beg
